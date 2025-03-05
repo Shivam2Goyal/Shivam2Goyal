@@ -1,4 +1,4 @@
-# Hello People!, Shivam Here:
+# Hello People!<br> Shivam Here:
 Studying AI and Data Science in IIT Jodhpur.<br>A budding Machine Learning and Robotics Enthusiast.
 
 # 💻 Tech Stack:
