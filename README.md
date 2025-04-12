@@ -1,5 +1,5 @@
-# Hello World! 👋 Shivam Here, Your Friendly Neighborhood AI & Robotics Buff!
-
+# Hello World! 👋 Shivam Here, Your Friendly Neighborhood ML & Robotics Buff!<br>
+## Pursuing BTech in AI & Data Science @ IIT Jodhpur
 Fueling my passion for cutting-edge tech as an AI and Data Science student at IIT Jodhpur. I'm diving deep into the fascinating worlds of Machine Learning and Robotics, always eager to build, learn, and innovate.
 
 # 🛠️ My Digital Toolkit:
