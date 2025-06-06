@@ -6,11 +6,10 @@ A BTech student in **AI & Data Science at IIT Jodhpur**, passionate about **Mach
 
 ## 🧠 What I'm Learning Right Now
 
-- Machine Learning (we can't be the only one learning things) 
-- Data Science (yeah that SQL and table stuff)
+- Machine Learning
+- Data Science
 - Deep Learning
-- Natural Language Processing (I need to make a friend) <br>
-  <i>(man i just love throwing buzz words around)<i>
+- In future - NLP/LLMs and some GenAI stuff
 
 ---
 
