@@ -1,4 +1,4 @@
-# 👋 Hi there! Your friendly neighbourhood Shivam here;
+# 👋 Hi there! It's Shivam
 
 A BTech student in **AI & Data Science at IIT Jodhpur**, passionate about **Machine Learning** and **Robotics**. I love building cool projects, learning new technologies, and exploring the world of AI.
 
