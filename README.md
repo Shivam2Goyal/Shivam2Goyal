@@ -7,4 +7,4 @@ A BTech student in **AI & Data Science at IIT Jodhpur**, passionate about **Mach
 ## 📬 Connect with Me
 
 -  Email: [b23cm1036@gmail.com](mailto:b23cm1036@gmail.com)  
-- 💼 LinkedIn: [Shivam Goyal](https://linkedin.com/in/shivam-goyal-85b63928a)
+-  LinkedIn: [Shivam Goyal](https://linkedin.com/in/shivam-goyal-85b63928a)
