@@ -77,8 +77,9 @@ I’m particularly interested in problems where data-driven methods meet practic
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam2Goyal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 </div>
 <br/>
 <hr/>
