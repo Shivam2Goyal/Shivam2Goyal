@@ -57,13 +57,8 @@ I’m particularly interested in problems where data-driven methods meet practic
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-### 🦾 Robotics
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gazebo-000000?style=flat-square&logo=gazebo&logoColor=white"/>
-<img src="https://img.shields.io/badge/SLAM-Autonomous_Nav-6366f1?style=flat-square"/>
-
 ### 🧰 DevTools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,latex&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,latex&perline=8" />
 
 ### ☁️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,aws&perline=6" />
